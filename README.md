@@ -19,6 +19,9 @@ https://www.seleniumhq.org/download/
 
 * install VS Code/Visual Code
 https://code.visualstudio.com/Download
+โหลดมาติดตั้งเสร็จให้เพิ่ม EXTENSIONS >>  robot framework language ด้วยนะครับ
+
+
 
 * สามารถติดตามความรู้ Robot Framework ได้ มาแลกเปลี่ยนความรู้ใหม่ๆกันครับ : 
 https://www.youtube.com/channel/UCLZc6Bopa2XOd4LQJJH_ewg?sub_confirmation=1
