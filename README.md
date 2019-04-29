@@ -8,6 +8,7 @@
    - 3. กดค้นหา
    - 4. คลิ๊กไปที่ Robot Framework
    - 5. เช็คหน้าเว็บ
+ * Clone Code ไปศึกษาได้เลยครับ : git clone https://github.com/kachain2019/robot_day1.git
 
 # install program
  * Robot Framework Install by Cr.betiranasak 
