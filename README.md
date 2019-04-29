@@ -18,3 +18,5 @@ https://www.seleniumhq.org/download/
 
 * install VS Code/Visual Code
 https://code.visualstudio.com/Download
+
+# คนที่ประสบความสำเร็จมากที่สุดในโลกคือคนที่พบเจอความผิดพลาดและความล้มเหลวมากกว่าคนอื่น
