@@ -19,4 +19,7 @@ https://www.seleniumhq.org/download/
 * install VS Code/Visual Code
 https://code.visualstudio.com/Download
 
-# คนที่ประสบความสำเร็จมากที่สุดในโลกคือคนที่พบเจอความผิดพลาดและความล้มเหลวมากกว่าคนอื่น
+* ทิ้งท้าย : คนที่ประสบความสำเร็จมากที่สุดในโลกคือคนที่พบเจอความผิดพลาดและความล้มเหลวมากกว่าคนอื่น
+
+* สามารถติดตามความรู้ Robot Framework ได้ มาแลกเปลี่ยนความรู้ใหม่ๆกันครับ : 
+https://www.youtube.com/channel/UCLZc6Bopa2XOd4LQJJH_ewg?sub_confirmation=1
