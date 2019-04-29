@@ -1,7 +1,7 @@
 # robot_day1
  * What is Robot Framework … ?
- * Selenium2Library :  [http://robotframework.org/Selenium2Library/Selenium2Library.html]
- * BuiltIn : [http://robotframework.org/robotframework/latest/libraries/BuiltIn.html]
+ * Selenium2Library :  http://robotframework.org/Selenium2Library/Selenium2Library.html
+ * BuiltIn : http://robotframework.org/robotframework/latest/libraries/BuiltIn.html
  * Workshop Beginner
    - 1. เปิดเว็บไซต์ google
    - 2. กรอกคำว่า Robot Framework
