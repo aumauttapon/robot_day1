@@ -27,3 +27,5 @@ https://code.visualstudio.com/Download
 https://www.youtube.com/channel/UCLZc6Bopa2XOd4LQJJH_ewg?sub_confirmation=1
 
 * ทิ้งท้าย : คนที่ประสบความสำเร็จมากที่สุดในโลกคือคนที่พบเจอความผิดพลาดและความล้มเหลวมากกว่าคนอื่น
+
+วิดีโอ : https://www.youtube.com/watch?v=xqN4DSUf_Gs&list=PLZ6Bx61eBnB07SRw1zZR5Pad8kheKLftt&index=1
