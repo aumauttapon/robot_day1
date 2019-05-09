@@ -1,5 +1,4 @@
-# robot_day1
- # What is Robot Framework … ?
+# What is Robot Framework … ?
  * Selenium2Library :  http://robotframework.org/Selenium2Library/Selenium2Library.html
  * BuiltIn : http://robotframework.org/robotframework/latest/libraries/BuiltIn.html
  * Workshop Beginner
