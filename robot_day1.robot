@@ -1,5 +1,5 @@
 *** Settings ***
-Library  Selenium2Library
+Library  SeleniumLibrary
 
 *** Variables ***
 ${expect}  ROBOT FRAME WORK/
