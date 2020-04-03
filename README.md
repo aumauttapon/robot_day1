@@ -1,5 +1,5 @@
 # What is Robot Framework … ?
- * Selenium2Library :  http://robotframework.org/Selenium2Library/Selenium2Library.html
+ * SeleniumLibrary :  http://robotframework.org/Selenium2Library/SeleniumLibrary.html
  * BuiltIn : http://robotframework.org/robotframework/latest/libraries/BuiltIn.html
  * Workshop Beginner
    - 1. เปิดเว็บไซต์ google
